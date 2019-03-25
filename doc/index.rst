@@ -13,4 +13,15 @@ TEST1
 
 Test1
 
+
+.. code:: console
+
+    minicom -D <tty_device> -b 115200
+
+\ |IMG1|\ 
+
 .. bottom of content
+
+.. |IMG1| image:: static/TEST_1.jpeg
+   :height: 416 px
+   :width: 624 px
